@@ -1,0 +1,16 @@
+/.idea
+/.vscode
+*.log
+/public/uploads/
+/public/storage/
+/runtime/
+/node_modules
+/dist
+/.env
+.env
+*.xlsx
+*.xls
+*.sql
+/archive/*
+/archive/.gitignore
+archive/*
